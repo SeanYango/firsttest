@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firsttest</string>
+    <string name="test_Hello">哈囉  世界!</string>
+    <string name="test_bigger">放大</string>
+</resources>
